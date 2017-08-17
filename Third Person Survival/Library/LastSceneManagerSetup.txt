@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Resources/Scenes/scn_Development.unity
+  isLoaded: 1
+  isActive: 1
